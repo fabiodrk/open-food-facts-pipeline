@@ -1,0 +1,45 @@
+[
+  {
+    "code": "0000000000001",
+    "product_name": "Valid high-protein sample",
+    "generic_name": "Protein snack",
+    "quantity": "100 g",
+    "ingredients_text": "Peas, seasoning",
+    "created_t": 1788600000,
+    "last_modified_t": 1788603600,
+    "main_category": "en:snacks",
+    "nutriscore_score": 2,
+    "nutriscore_grade": "B",
+    "nova_group": 3,
+    "completeness": 0.92,
+    "unique_scans_n": 14,
+    "pnns_groups_1": "Salty snacks",
+    "pnns_groups_2": "Appetizers",
+    "nutriments": {"proteins_100g": 18.5}
+  },
+  {
+    "code": "0000000000002",
+    "product_name": "Incomplete but valid sample",
+    "last_modified_t": 1788603500,
+    "nova_group": null,
+    "nutriments": {"proteins_100g": 4.1}
+  },
+  {
+    "code": "0000000000003",
+    "product_name": "Impossible protein sample",
+    "last_modified_t": 1788603400,
+    "nutriscore_score": 8,
+    "nutriscore_grade": "c",
+    "nova_group": 4,
+    "nutriments": {"proteins_100g": 145}
+  },
+  {
+    "code": "0000000000004",
+    "product_name": "Invalid grade sample",
+    "last_modified_t": 1788603300,
+    "nutriscore_score": 5,
+    "nutriscore_grade": "Z",
+    "nova_group": 2,
+    "nutriments": {"proteins_100g": 7.5}
+  }
+]
